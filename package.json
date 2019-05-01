@@ -12,7 +12,7 @@
     "start": "node server.js"
   },
   "author": "Nadia Wallace",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "dependencies": {
     "body-parser": "^1.10.1",
     "chai": "^1.10.0",
