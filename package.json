@@ -22,6 +22,8 @@
     "mocha": "^9.1.3",
     "mongodb": "^4.2.x",
     "mongoose": "^6.1.1",
+    "snyk": "^1.787.0",
     "supertest": "^6.1.6"
-  }
+  },
+  "snyk": true;
 }
